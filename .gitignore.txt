@@ -1,0 +1,10 @@
+*.log
+*.bak
+*.tmp
+.DS_Store
+.idea/
+target/
+*.class
+app/h2_database/
+*.db
+*.db.lock
